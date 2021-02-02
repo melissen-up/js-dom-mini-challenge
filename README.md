@@ -89,6 +89,10 @@ We also want to show some of the awesome animal sightings our traveler had. You'
 
 **YOUR NOTES**
 ```
+- Pulling out the 'animalSightings' group, iterate through it.
+- create a new li
+- update the innerHTML
+- append to the new constant
 
 ```
 
